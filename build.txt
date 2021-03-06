@@ -1,0 +1,6 @@
+displayName = AntiAntiButcher
+author = skymory_24
+version = 1.0
+modReferences = CalamityMod
+hideCode = false
+hideResources = false

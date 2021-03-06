@@ -1,0 +1,2 @@
+Disables Calamity's anti-butcher feature
+because i'm trying to test something and don't feel like killing SCaL 20 times
